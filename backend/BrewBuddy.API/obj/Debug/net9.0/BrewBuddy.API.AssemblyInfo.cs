@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BrewBuddy.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8e4e1ad1ad0d951d547e113aa685eb26999b01e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46dc80daddae6b7ede91e78f828d6f954ed7475b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BrewBuddy.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BrewBuddy.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
